@@ -1,7 +1,8 @@
-<b align="center">
+<center align="center">
 # CryptoBin
+
 # **The Encrypted PasteBin**
-</b>
+</center>
 
 - What is CryptoBin?
 	- CryptoBin is text-hosting application where the hosting does not know what's stored on their server!
