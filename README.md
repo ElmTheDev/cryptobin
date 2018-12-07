@@ -6,7 +6,7 @@
 </center>
 
 - What is CryptoBin?
-	- CryptoBin is text-hosting application where the nobody but server and user know what's stored on the server!
+	- CryptoBin is text-hosting application where the hosting doesn't know what's stored on their servers.
 
 - How does this work?
 	- Whenever API call is made for new paste to be created server encrypts the content with user provided key and stores *only* the encrypted version of content in .EP file on the server. The .EP files is then encrypted once again with key *only* known to the server.
